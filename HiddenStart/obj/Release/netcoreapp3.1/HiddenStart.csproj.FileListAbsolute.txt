@@ -1,0 +1,12 @@
+C:\Users\ilya\Desktop\HiddenStart\HiddenStart\bin\Release\netcoreapp3.1\HiddenStart.exe
+C:\Users\ilya\Desktop\HiddenStart\HiddenStart\bin\Release\netcoreapp3.1\HiddenStart.deps.json
+C:\Users\ilya\Desktop\HiddenStart\HiddenStart\bin\Release\netcoreapp3.1\HiddenStart.runtimeconfig.json
+C:\Users\ilya\Desktop\HiddenStart\HiddenStart\bin\Release\netcoreapp3.1\HiddenStart.runtimeconfig.dev.json
+C:\Users\ilya\Desktop\HiddenStart\HiddenStart\bin\Release\netcoreapp3.1\HiddenStart.dll
+C:\Users\ilya\Desktop\HiddenStart\HiddenStart\bin\Release\netcoreapp3.1\HiddenStart.pdb
+C:\Users\ilya\Desktop\HiddenStart\HiddenStart\obj\Release\netcoreapp3.1\HiddenStart.AssemblyInfoInputs.cache
+C:\Users\ilya\Desktop\HiddenStart\HiddenStart\obj\Release\netcoreapp3.1\HiddenStart.AssemblyInfo.cs
+C:\Users\ilya\Desktop\HiddenStart\HiddenStart\obj\Release\netcoreapp3.1\HiddenStart.csproj.CoreCompileInputs.cache
+C:\Users\ilya\Desktop\HiddenStart\HiddenStart\obj\Release\netcoreapp3.1\HiddenStart.dll
+C:\Users\ilya\Desktop\HiddenStart\HiddenStart\obj\Release\netcoreapp3.1\HiddenStart.pdb
+C:\Users\ilya\Desktop\HiddenStart\HiddenStart\obj\Release\netcoreapp3.1\HiddenStart.genruntimeconfig.cache
